@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movi_APP</string>
+    <string name="action_settings">Settings</string>
+    <string name="update_url">Choice Films</string>
+    <string name="choice">popular</string>
+    <string name="title_activity_detailed_activity">Detailed_activity</string>
+</resources>
